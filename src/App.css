@@ -1,0 +1,2 @@
+/* Global layout lives in index.css — keep Vite defaults out of the way. */
+html { scroll-behavior: smooth; }
